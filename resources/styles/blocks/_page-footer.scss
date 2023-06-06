@@ -1,0 +1,43 @@
+.page-footer {
+  background-color: $base-primary;
+  color: $base-white;
+  padding: 16px 0;
+
+  @include tablet {
+    padding: 24px 0;
+  }
+
+  @include desktop {
+    padding: 32px 0;
+  }
+}
+
+.page-footer__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.page-footer__copyright {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  color: $base-secondary;
+  min-width: max-content;
+
+  @include tablet {
+    &::before {
+      content: "";
+      display: block;
+      min-width: 58px;
+      min-height: 45px;
+      width: 58px;
+      height: 45px;
+      background-image: url('/images/zm-icon.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+  }
+}

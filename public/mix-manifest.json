@@ -1,0 +1,15 @@
+{
+    "/js/pages/index.min.js": "/js/pages/index.min.js?id=9234a38535b1f32f62461306b22ccff5",
+    "/js/pages/author/index.min.js": "/js/pages/author/index.min.js?id=c319c6cc8c7e681cc365e79127baf837",
+    "/js/pages/quotes/selected.min.js": "/js/pages/quotes/selected.min.js?id=2c0ec393b8d3055835907b6b6cf1cb0d",
+    "/js/pages/tags/index.min.js": "/js/pages/tags/index.min.js?id=ddc6d74cc63746732bb1a7efd839f185",
+    "/js/pages/tags/selected.min.js": "/js/pages/tags/selected.min.js?id=eac631f94ab5074a006c4c246701d328",
+    "/js/auth/login.min.js": "/js/auth/login.min.js?id=86025c237e2b976f9b7cc8ac1ec616ec",
+    "/js/admin.min.js": "/js/admin.min.js?id=ec8f7baf070513395ae7f9c803fe55e8",
+    "/css/pages/tags/selected.min.css": "/css/pages/tags/selected.min.css?id=5d63e8426972f0a4903db96426387753",
+    "/css/pages/tags/index.min.css": "/css/pages/tags/index.min.css?id=d397529c1372447d6ee79d905735fe91",
+    "/css/pages/quotes/selected.min.css": "/css/pages/quotes/selected.min.css?id=0165ce3f544d7d5f46673761dd119f87",
+    "/css/pages/author/index.min.css": "/css/pages/author/index.min.css?id=754579298fe5f888296d49f05c2983df",
+    "/css/pages/index.min.css": "/css/pages/index.min.css?id=d68920487788f16761a32893dae288a8",
+    "/css/auth/login.min.css": "/css/auth/login.min.css?id=8367e370c661283612fedc1b7ddc3815"
+}
